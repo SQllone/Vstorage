@@ -49,9 +49,3 @@ vstorage/
 | `/users/` | GET | List users | Yes (Admin) |
 | `/health` | GET | Health check | No |
 
----
-
-**VStorage** - Professional Warehouse Management System for Coursework
-=======
-# Vstorage
->>>>>>> 4117720c03af42b6dc1e400b651d764c2c3d9e7a

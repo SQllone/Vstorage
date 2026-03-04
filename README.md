@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VStorage - Warehouse Management System
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
@@ -276,3 +277,6 @@ If you encounter issues:
 ---
 
 **VStorage** - Professional Warehouse Management System for Coursework
+=======
+# Vstorage
+>>>>>>> 4117720c03af42b6dc1e400b651d764c2c3d9e7a

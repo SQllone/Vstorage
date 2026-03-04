@@ -109,3 +109,13 @@ dmypy.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+.pytest_cache/
+.coverage
+dist_obfuscated/
